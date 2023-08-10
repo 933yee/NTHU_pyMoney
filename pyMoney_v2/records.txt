@@ -1,0 +1,7 @@
+100
+2022-06-18 food banana -50
+2022-06-18 food apple -1000
+2020-01-12 snack cake -500
+2020-01-12 meal steak -2000
+2022-06-19 food pie -5000
+2023-08-10 expense 123 123
